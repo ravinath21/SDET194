@@ -42,7 +42,7 @@ public class Screen {
 
             File destFile = new File(path);
 
-            // Create directories if they do not exist
+            // Create directories if they do not exist  - Another change from Ravi's github
             destFile.getParentFile().mkdirs();
 
             FileUtils.copyFile(srcFile, destFile);
