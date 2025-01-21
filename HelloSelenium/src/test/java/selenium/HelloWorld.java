@@ -11,7 +11,7 @@ public class HelloWorld {
 		// Navigate to a website
 		driver.get("C:\\Users\\poona\\Downloads\\edgedriver_win64");
 		//driver.get("https://amazon.com");
-		// Close the browser
+		// Close the browser - Try again
 		//driver.quit();
 
 	}
